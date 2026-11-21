@@ -32,11 +32,11 @@ Features to consider, roughly in order of how much they add.
 
 ## Notifications
 
-- [ ] Desktop notifications for mentions and DMs.
-- [ ] Mute a channel, category or server, for a time or until changed.
-- [ ] Per-channel notification setting: all messages, mentions only, or nothing.
-- [ ] Unread mention count badges on servers and channels.
-- [ ] `@everyone` and `@here` mentions, with a permission to control who can use them.
+- [x] Desktop notifications for mentions and DMs.
+- [x] Mute a channel, category or server, for a time or until changed.
+- [x] Per-channel notification setting: all messages, mentions only, or nothing.
+- [ ] Unread mention count badges on servers and channels. (Channels done; server icons still to do.)
+- [x] `@everyone` and `@here` mentions, with a permission to control who can use them.
 
 ## Conversations
 
