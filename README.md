@@ -129,6 +129,16 @@ online member list on the right.
 - Channels `#general` and `#random` exist at startup. Channel names are
   lowercased and limited to letters, digits, `-` and `_`.
 
+### Screenshots
+
+| | |
+| --- | --- |
+| **Chat**<br>![A server channel with messages](docs/screenshots/chat.png) | **Direct messages**<br>![Direct messages](docs/screenshots/direct-messages.png) |
+| **Member profile card**<br>![A member's profile card](docs/screenshots/member-profile-card.png) | **Roles page**<br>![The roles page](docs/screenshots/roles-page.png) |
+| **Channel menu: Mute**<br>![Mute durations in a flyout](docs/screenshots/channel-mute-menu.png) | **Channel menu: Notification Settings**<br>![Radio list of notification levels](docs/screenshots/channel-notification-menu.png) |
+| **Member menu: Roles**<br>![Roles checklist beside a member menu](docs/screenshots/member-roles-menu.png) | **Timing out a member**<br>![Timeout dialog with duration and reason](docs/screenshots/member-timeout-dialog.png) |
+| **Server Notification Settings**<br>![Server mute, default level and suppress switches](docs/screenshots/server-notification-settings.png) | **Settings**<br>![The settings page](docs/screenshots/settings.png) |
+
 ## Protocol
 
 ### Auth service
