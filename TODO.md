@@ -11,7 +11,7 @@ Features to consider, roughly in order of how much they add.
 - [x] Message forwarding to another channel or DM.
 - [ ] Polls with options, votes and an end time.
 - [ ] Jump to a date or to the first unread message.
-- [ ] Saved or bookmarked messages.
+- [x] Saved or bookmarked messages.
 
 ## Moderation
 
