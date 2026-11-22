@@ -7,7 +7,7 @@ Features to consider, roughly in order of how much they add.
 - [ ] File and image attachments: upload, show image previews inline, download other files (the attach icon is there but does nothing yet).
 - [ ] Link previews (embeds): title, description and image for links posted in chat.
 - [x] Spoilers: `||hidden text||` that shows when clicked.
-- [ ] Custom emoji per server, usable in messages and reactions.
+- [x] Custom emoji per server, usable in messages and reactions.
 - [x] Message forwarding to another channel or DM.
 - [ ] Polls with options, votes and an end time.
 - [ ] Jump to a date or to the first unread message.
