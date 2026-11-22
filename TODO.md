@@ -9,7 +9,7 @@ Features to consider, roughly in order of how much they add.
 - [x] Spoilers: `||hidden text||` that shows when clicked.
 - [x] Custom emoji per server, usable in messages and reactions.
 - [x] Message forwarding to another channel or DM.
-- [ ] Polls with options, votes and an end time.
+- [x] Polls with options, votes and an end time.
 - [ ] Jump to a date or to the first unread message.
 - [x] Saved or bookmarked messages.
 
