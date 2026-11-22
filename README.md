@@ -127,7 +127,7 @@ online member list on the right.
 - **Log out**: ends your session on the auth service and returns to the login
   screen.
 - Channels `#general` and `#random` exist at startup. Channel names are
-  lowercased and limited to letters, digits, `-` and `_`.
+  lowercased, and may contain letters, digits, emoji and other symbols. Spaces are removed.
 
 ### Screenshots
 
