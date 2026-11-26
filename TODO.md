@@ -5,7 +5,7 @@ Features still to build, roughly in order of how much they add.
 ## Messages
 
 - [x] File and image attachments: upload, show image previews inline, download other files. The attach entry in the + menu is waiting for this.
-- [ ] Link previews (embeds): title, description and image for links posted in chat.
+- [x] Link previews (embeds): title, description and image for links posted in chat.
 - [ ] Jump to a date or to the first unread message.
 - [ ] Mark a channel as unread, to come back to it later.
 - [ ] Message drafts kept per channel, so switching channels does not lose what was typed.
